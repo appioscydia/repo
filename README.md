@@ -52,12 +52,12 @@ This data are the links that appear at the bottom of every depication. The data 
     <footerlinks>
         <link>
             <name>Follow me on Twitter</name>
-            <url>https://twitter.com/reposi3</url>
+            <url>https://twitter.com/app_ios_cydia</url>
             <iconclass>glyphicon glyphicon-user</iconclass>
         </link>
         <link>
             <name>I want this depiction template</name>
-            <url>https://github.com/supermamon/Reposi3</url>
+            <url>https://github.com/supermamon/appioscydia</url>
             <iconclass>glyphicon glyphicon-thumbs-up</iconclass>
         </link>
     </footerlinks>
@@ -67,7 +67,7 @@ This data are the links that appear at the bottom of every depication. The data 
 
 #### 3. Your repo is _almost_ ready.
 At this point your repo is basically ready to be added into Cydia.
-You can also visit your repo's homepage by going to `https://username.github.io/repo/`.
+You can also visit your repo's homepage by going to `https://appioscydia.github.io/repo/`.
 It will come with 2 sample packages, Old Package and New Package.
 Each of the packages have a link on this page pointing to their depictions.
 Next guide will show you how to assign and customize your depiction pages.
@@ -81,7 +81,7 @@ Rename the duplicate with the same name as your package name.
 There are 2 files inside the folder - `info.xml` and `changelog.xml`.
 Update the 2 files with information regading your package.
 The tags are pretty much self-explanatory.
-Contact [@reposi3](https://twitter.com/reposi3) or [@supermamon](https://twitter.com/supermamon) for questions.
+Contact [@appioscydia](https://twitter.com/app_ios_cydia) or [@supermamon](https://twitter.com/supermamon) for questions.
 
 `info.xml`.
 ```xml

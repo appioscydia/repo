@@ -11,11 +11,11 @@ If you are *not* hosting your repo on [Github Pages](https://pages.github.com/),
 
 There are 2 options for those using [Github Pages](https://pages.github.com/).
 
-A. If you want to use your root `appioscydia.github.io` as your repo, fork this repo and rename it to `appioscydia.github.io`. So when adding it in Cydia, use `https://appioscydia.github.io`.
+A. If you want to use your root `username.github.io` as your repo, fork this repo and rename it to `username.github.io`. So when adding it in Cydia, use `https://appioscydia.github.io`.
 
-B. If you want to use a subfolder for your existing `appioscydia.github.io` as your repo (example `appioscydia.github.io/repo`), fork this repo and rename it to `repo`. So when adding it in Cydia, use `https://appioscydia.github.io/repo`.
+B. If you want to use a subfolder for your existing `username.github.io` as your repo (example `username.github.io/repo`), fork this repo and rename it to `repo`. So when adding it in Cydia, use `https://appioscydia.github.io/repo`.
 
-You can change `repo` to anything you want, like `cydia` for example. So your repo url would be `https://appioscydia.github.io/cydia`.
+You can change `repo` to anything you want, like `cydia` for example. So your repo url would be `https://username.github.io/cydia`.
 
 
 #### 2. Personalize
